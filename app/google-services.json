@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379484513474",
+    "firebase_url": "https://zikirmatik-75cea.firebaseio.com",
+    "project_id": "zikirmatik-75cea",
+    "storage_bucket": "zikirmatik-75cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379484513474:android:2f8af2596ccd284767c75b",
+        "android_client_info": {
+          "package_name": "com.example.zikirmatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379484513474-4n0ropb3svktsec9ptl0kcqdf5ijhp3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zikirmatik",
+            "certificate_hash": "0388c97b874631bd168f213f52e3613843da598d"
+          }
+        },
+        {
+          "client_id": "379484513474-efeei3bebjhd542e6u37gbnth40psqaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQTgyLhov-z6vImVO_XCHseqJkA1K2HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379484513474-efeei3bebjhd542e6u37gbnth40psqaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
